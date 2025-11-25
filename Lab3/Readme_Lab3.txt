@@ -1,4 +1,4 @@
-# Bài 1: XÂY DỰNG CHƯƠNG TRÌNH TÍNH HỌC LỰC
+  # Bài 1: XÂY DỰNG CHƯƠNG TRÌNH TÍNH HỌC LỰC
 Input: Nhập vào dtb của Sinh Viên từ 0 đến 10 
 Output: Xuất ra màn hình Học lực của Sinh Viên
 Nếu dtb>=9 -> Học Lực Xuất Sắc
